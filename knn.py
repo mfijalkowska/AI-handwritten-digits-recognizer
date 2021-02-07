@@ -3,7 +3,7 @@
 Created on Thu Oct 31 15:37:14 2019
 
 @author: 
-     ID: 201359937
+     Magdalena Fijalkowska
 """
 
 import pickle
