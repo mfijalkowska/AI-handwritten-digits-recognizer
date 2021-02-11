@@ -1,1 +1,1 @@
-# AI-handwritten-digits-recognizer
+# AI handwritten digits recognizer
